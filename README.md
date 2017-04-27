@@ -1,7 +1,5 @@
-# breakfast
 <html>
   <head> 
-    <title>Chef Riah</title>
   </head>
   <body>
     <h1>Riah's Ultimate Breakfast Sandwich</h1>
